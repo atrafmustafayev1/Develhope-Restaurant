@@ -2,6 +2,7 @@ The name of the restaurant: "Group 4"
 Menu: "Fish" 
 Desserts: "Fruit Kebabs, Heaven on Earth Cake, Bananas Foster, Lemon Cheese Cake, Orange Upside Down Cake, Lemmon Pudding Cake"
 Drinks: "Tropic Lemonade, Mix Fruit Lemonade, Red berries Lemonade, Basil apple Lemonade"
-First Dish: "Halibut, Salmon, Sea Bass, Cod, Smoked Trout, Tuna"
-Appetizers: "Cheese, Jam, Honey, Butter" 
+First Dish: "Halibut, Salmon, Sea Bass, Cod, Smoked Trout, Tuna
+Appetizers: "Cheese, Jam, Honey, Butter"
+Salad: "Spinach Salad, Lettuce salad, Greek Salad" 
 
