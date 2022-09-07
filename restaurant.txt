@@ -3,3 +3,4 @@ Menu: "Fish"
 Drinks: "Tropic Lemonade, Mix Fruit Lemonade, Red berries Lemonade, Basil apple Lemonade"
 First Dish: "Halibut, Salmon, Sea Bass, Cod, Smoked Trout, Tuna"
 Appetizers: "Cheese, Jam, Honey, Butter"
+
