@@ -5,4 +5,5 @@ Drinks: "Tropic Lemonade, Mix Fruit Lemonade, Red berries Lemonade, Basil apple 
 First Dish: "Halibut, Salmon, Sea Bass, Cod, Smoked Trout, Tuna
 Appetizers: "Cheese, Jam, Honey, Butter"
 Salad: "Spinach Salad, Lettuce salad, Greek Salad" 
-Soups: "Tomato Soups, Pumpkin Soup, Mushroom Soup"
+Soups: 'Tomato Soup, Pumpkin Soup, Mushroom Soup"
+
